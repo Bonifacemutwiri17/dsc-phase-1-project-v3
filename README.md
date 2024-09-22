@@ -6,3 +6,7 @@ In this project it deals with a company that wants to go into a new business and
 # Business Understanding.
 
 The Business at hand deals with airplanes by which is a large area of expertise and needs analysis.Targeting aviation professionals, researchers, regulatory bodies, and the general public, the database addresses the critical need for accessible information to identify trends and preventative measures. Its value lies in offering detailed synopses and categorized data that inform decision-making and improve safety protocols. Potential revenue streams include subscription services, partnerships with aviation organizations, and data licensing.The companies selling the airlines, the airports they will be operating in , the government of the country of base operations the crew workers and the passengers are all stakeholders in the business.
+
+# Project Goal .
+
+My project aims to develop a comprehensive, user-friendly platform that consolidates detailed records of aviation accidents and incidents. This platform aims to enhance aviation safety by providing valuable insights and analysis to stakeholders, including aviation professionals, researchers, and regulatory bodies. By facilitating access to categorized data and in-depth synopses, the project seeks to promote informed decision-making, identify trends, and implement effective safety measures.I want to research o the accidents and its ratios and occurences.
