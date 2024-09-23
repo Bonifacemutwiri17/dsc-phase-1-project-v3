@@ -1,12 +1,18 @@
-# Project Overview.
+# PHASE 1 PROJECT.
+
+## Project Overview
 
 In this project it deals with a company that wants to go into a new business and start a new with different goals and expand there network. There main objective is to get into the aviation sector of the business world and expand there influence majorly on buying aeroplanes and using them for purposes. Mainly Private, military and Commercial purposes. Featuring categorized data on aircraft types, causes, and outcomes, it provides insightful synopses and lessons for the start of the businness.Thus due to the eagerness of the business to start they overlooked the risks accompanied by the airline business thus poor decision making. My project aims to look at the risks in the business and also easily search and filter information, supported by interactive visualization tools. This initiative enhances safety standards, serves as an educational resource, and facilitates research in aviation safety. By ensuring accurate data collection and ongoing maintenance, the project fosters a culture of safety and informed decision-making in the aviation industry.
 
+## Project Goals
+My project aims to develop a comprehensive, user-friendly platform that consolidates detailed records of aviation accidents and incidents. This platform aims to enhance aviation safety by providing valuable insights and analysis to stakeholders, including aviation professionals, researchers, and regulatory bodies. By facilitating access to categorized data and in-depth synopses, the project seeks to promote informed decision-making, identify trends, and implement effective safety measures.I want to research o the accidents and its ratios and occurences.
 
-# Business Understanding.
+
+## Business Understanding
 
 The Business at hand deals with airplanes by which is a large area of expertise and needs analysis.Targeting aviation professionals, researchers, regulatory bodies, and the general public, the database addresses the critical need for accessible information to identify trends and preventative measures. Its value lies in offering detailed synopses and categorized data that inform decision-making and improve safety protocols. Potential revenue streams include subscription services, partnerships with aviation organizations, and data licensing.The companies selling the airlines, the airports they will be operating in , the government of the country of base operations the crew workers and the passengers are all stakeholders in the business.
 
-# Project Goal .
+## Data Understanding
 
-My project aims to develop a comprehensive, user-friendly platform that consolidates detailed records of aviation accidents and incidents. This platform aims to enhance aviation safety by providing valuable insights and analysis to stakeholders, including aviation professionals, researchers, and regulatory bodies. By facilitating access to categorized data and in-depth synopses, the project seeks to promote informed decision-making, identify trends, and implement effective safety measures.I want to research o the accidents and its ratios and occurences.
+For my project, I am working with a dataset on Aviation Accident Database & Synopses, up to 2023 obrained from Kaggle, where it is frequently updated and made accessible for research purposes. The data is stored in CSV format within a folder named "data.",in my github repository. It comprises 90,348 rows and 31 columns, where each column represents a distinct field and each row corresponds to an individual aircraft accident investigation entry.The dataset features a combination of continuous and categorical data, with 26 of the columns (approximately 84%) being categorical, stored as object types. The remaining 5 columns are continuous, represented in float form. This dataset focuses specifically on aircraft accidents, providing a rich foundation for analysis.I was able to find the sums of the missing values in the data and also the percentages of the missing values thus dropped some of the columns for efficiency and continuation on my project. After dropping the columns the shape of the data changed to 90,348 rows and 26 columns.Moving forward, I plan to explore the unique values and distributions of the categorical columns, analyze trends in the continuous data, and prepare for necessary data cleaning and exploratory data analysis to uncover valuable insights.
+
