@@ -41,5 +41,7 @@ The scatter plot showcases the relationship between fatal and serious injuries, 
 6. Line Plot
 The line plot displays trends in total injuries across different engine counts over time or ordered categories. Each line represents a different injury type, allowing viewers to see how the counts change as the number of engines increases. This visualization is particularly effective for illustrating trends and comparisons, making it easy to identify which injury types are rising or falling in relation to the number of engines.
 
+Collectively, these visualizations create a comprehensive toolkit for analyzing injury data by the number of engines. Each type offers unique insights, from comparisons and trends to distributions and correlations, enabling a thorough understanding of the underlying patterns and relationships within the dataset. By leveraging these visualizations, stakeholders can make informed decisions based on data-driven insights.
+
 
 
