@@ -27,5 +27,19 @@ Median Imputation for Numerical Data: For the column Total.Serious.Injuries, we 
 Mode Imputation for Categorical Data: For the column Total.Uninjured, we filled missing values with the mode (the most frequently occurring value) of the column. This method is particularly useful for categorical data, as it ensures that the imputed values reflect the most common occurrence within the dataset.
 To analyze the impact of the number of engines on safety outcomes, we grouped the dataset by the Number.of.Engines column. Using the groupby method, we aggregated the total counts of various injury categories:Total Fatal Injuries,Total Serious Injuries,Total Minor Injuries,Total Uninjured.The aggregation was performed using the sum function for each category, providing insights into how the number of engines correlates with these safety metrics. The resulting grouped data was then reset to maintain a clear structure for further analysis.
 
+### Analysis of the Visualizations
+1. Bar Plot
+The bar plot displays the total counts of different types of injuries (Fatal, Serious, Minor, Uninjured) for each category of the number of engines. This visualization allows for straightforward comparisons across categories, making it easy to identify which engine counts are associated with higher or lower injury totals. The use of color differentiation enhances clarity, helping in quickly discern between the different injury types.
+2. Stacked Bar Plot
+The stacked bar plot takes the bar plot a step further by stacking the different injury types on top of each other for each engine count. This visualization not only shows the total injury count but also illustrates the composition of that total. One can easily see how each injury type contributes to the overall count for each engine category, facilitating a deeper understanding of the data’s structure.
+3. Box Plot
+The box plot provides insights into the distribution of injuries for a particular injury type across different engine counts. It shows the median, quartiles, and potential outliers, which helps identify variability and skewness in the data. This visualization is particularly useful for assessing the range and distribution of injury counts, allowing for quick identification of any extreme values or outliers.
+4. Heatmap
+The heatmap visualizes the correlation between different types of injuries, using colors to represent the strength and direction of relationships. This visualization makes it easy to spot patterns and correlations at a glance. For example, a strong positive correlation between serious and fatal injuries could indicate that as serious injuries increase, fatal injuries also tend to rise. This insight is valuable for understanding interdependencies in the data.
+5. Scatter Plot
+The scatter plot showcases the relationship between fatal and serious injuries, using points to represent data for different engine counts. This visualization allows one to observe trends and patterns in the relationship between these two variables. The color coding based on engine counts helps identify whether certain engine categories are associated with specific injury types, making it easier to spot clusters or trends.
+6. Line Plot
+The line plot displays trends in total injuries across different engine counts over time or ordered categories. Each line represents a different injury type, allowing viewers to see how the counts change as the number of engines increases. This visualization is particularly effective for illustrating trends and comparisons, making it easy to identify which injury types are rising or falling in relation to the number of engines.
+
 
 
