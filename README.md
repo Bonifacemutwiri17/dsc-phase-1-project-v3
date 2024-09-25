@@ -43,5 +43,13 @@ The line plot displays trends in total injuries across different engine counts o
 
 Collectively, these visualizations create a comprehensive toolkit for analyzing injury data by the number of engines. Each type offers unique insights, from comparisons and trends to distributions and correlations, enabling a thorough understanding of the underlying patterns and relationships within the dataset. By leveraging these visualizations, stakeholders can make informed decisions based on data-driven insights.
 
+The interactive dashboard in my tableau if found in this link https://public.tableau.com/app/profile/boniface.mutwiri/viz/PHASE1projectINTERACTIVEDASHBOARD/Dashboard1?publish=yes
+and the visualization are used to represent my finding and show the work i have been working on my project about the AIrport business.
+
+The conlusion to my project is that Human error remains a leading cause of aviation accidents, often linked to decision-making, fatigue, and inadequate training and to improve that to the stakeholders they should find adequate people for the jobs to come.
+#### Findings.
+Mechanical failures, particularly in older aircraft, continue to contribute to accidents. Regular maintenance and updates are critical.
+Weather-related factors, including turbulence, thunderstorms, and icing, are significant contributors to accidents.
+Increased Focus on Data Analysis: The aviation industry increasingly relies on data analytics to predict and prevent potential hazards, using historical data to improve safety measures.
 
 
